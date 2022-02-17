@@ -1,4 +1,9 @@
 ### Veja o projeto
+git clone no repositorio
+instale as dependencias - npm install
+para visualizar no navegador - npm start
+
+### Requisitos do projeto
 
   - [Lista de requisitos](#lista-de-requisitos)
     - [Página de Login](#página-de-login)
